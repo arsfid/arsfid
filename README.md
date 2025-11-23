@@ -16,6 +16,20 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=arsfid&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arsfid/arsfid/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arsfid/arsfid/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arsfid/arsfid/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/arsfid/arsfid/output/snake.svg" alt="Snake animation" />
+
+###
+
 ---
 [![](https://visitcount.itsvg.in/api?id=arsfid&icon=4&color=10)](https://visitcount.itsvg.in)
 
