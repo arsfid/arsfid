@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi there, I'm Arsya Fitrotul Firdaus 👋<br><br>### 🚀 Software Engineer | Web Developer
+## Hi there, I'm Arsya Fitrotul Firdaus 👋<br><br>🚀 Software Engineer | Web Developer
 
 
 ## 🌐 Socials:
